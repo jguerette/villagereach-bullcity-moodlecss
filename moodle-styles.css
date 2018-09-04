@@ -17,6 +17,6 @@
 }
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #5069A1 !important;
+  color: #556b2f !important;
   border-bottom-color: #556b2f !important;
 }
