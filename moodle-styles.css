@@ -1,8 +1,10 @@
+/* Header */
 .toolbar-background-ios,
 .toolbar-background-md,
 .toolbar-background-wp {
   background: #556b2f;
 }
+
 /* Bottom tabs selected color */
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-md .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
@@ -15,6 +17,7 @@
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
   color: #f5deb3;
 }
+
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
   color: #556b2f !important;
@@ -24,4 +27,3 @@
 /* Loading spinner */
 .spinner circle, .spinner line {
     stroke: #556b2f;
-
