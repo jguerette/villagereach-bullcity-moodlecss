@@ -20,6 +20,7 @@
   color: #556b2f !important;
   border-bottom-color: #556b2f !important;
 }
-.block_myoverview .nav.nav-tabs li.nav-item :nth-child(1) {
-    display: none;
+/* Loading spinner */
+.spinner circle, .spinner line {
+    stroke: #556b2f;
 }
