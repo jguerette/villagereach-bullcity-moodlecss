@@ -13,13 +13,15 @@
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: #556b2f;
+  color: #f5deb3;
 }
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
   color: #556b2f !important;
-  border-bottom-color: #556b2f !important;
+  border-bottom-color: #f5deb3 !important;
 }
-.block_myoverview .nav.nav-tabs li.nav-item :nth-child(1) {
-    display: none;
-}
+
+/* Loading spinner */
+.spinner circle, .spinner line {
+    stroke: #556b2f;
+
