@@ -18,7 +18,7 @@
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
   color: #556b2f !important;
-  border-bottom-color: #556b2f !important;
+  border-bottom-color: #556B2F !important;
 }
 /* Loading spinner */
 .spinner circle, .spinner line {
