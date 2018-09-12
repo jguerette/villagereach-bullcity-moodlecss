@@ -20,7 +20,7 @@
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
   color: #556b2f !important;
-  border-bottom-color: #556b2f !important;
+  border-bottom-color: #600707 !important;
 }
 /* Loading spinner */
 .spinner circle, .spinner line {
