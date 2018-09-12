@@ -1,8 +1,10 @@
-.toolbar-background-ios,
+/** Header color */
 .toolbar-background-md,
+.toolbar-background-ios,
 .toolbar-background-wp {
   background: #556b2f;
 }
+
 /* Bottom tabs selected color */
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-md .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
@@ -13,12 +15,12 @@
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: #556b2f;
+  color: #F5DEB3;
 }
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
   color: #556b2f !important;
-  border-bottom-color: #556B2F !important;
+  border-bottom-color: #556b2f !important;
 }
 /* Loading spinner */
 .spinner circle, .spinner line {
