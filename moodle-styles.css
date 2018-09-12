@@ -19,8 +19,8 @@
 }
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #556b2f !important;
-  border-bottom-color: #600707 !important;
+  color: #5562bf !important;
+  border-bottom-color: #556b2f !important;
 }
 /* Loading spinner */
 .spinner circle, .spinner line {
