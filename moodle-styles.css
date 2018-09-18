@@ -26,3 +26,8 @@
 .spinner circle, .spinner line {
     stroke: #556b2f;
 }
+ion-content.has-side-menu-header.mm-sidemenu-menu li:nth-last-child(5) {
+
+   display: none;
+
+}
